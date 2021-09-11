@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="Placa QRCode">
+    <static>true</static>
+    <link name="link">
+      <visual name="placa_qrcode">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh><uri>model://placaqr/meshes/placaQR.dae</uri></mesh>
+        </geometry>
+      </visual>
+	<!--<visual name="placa_qrcode2">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -2 0 0 0</pose>
+        <geometry>
+          <mesh><uri>model://placaqr/meshes/placaQR.dae</uri></mesh>
+        </geometry>
+      </visual>-->
+    </link>
+  </model>
+</sdf>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.83.0 commit date:2020-06-03, commit time:14:38, hash:211b6c29f771</authoring_tool>
+    </contributor>
+    <created>2020-06-23T16:55:46</created>
+    <modified>2020-06-23T16:55:46</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_cameras>
+    <camera id="Camera_002-camera" name="Camera.002">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_001-camera" name="Camera.001">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera-camera" name="Camera">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+  </library_cameras>
+  <library_effects>
+    <effect id="Water_Pool-effect">
+      <profile_COMMON>
+        <newparam sid="Water_Pool_jpg-surface">
+          <surface type="2D">
+            <init_from>Water_Pool_jpg</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="Water_Pool_jpg-sampler">
+          <sampler2D>
+            <source>Water_Pool_jpg-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="Water_Pool_jpg-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="Water_Pool_jpg" name="Water_Pool_jpg">
+      <init_from>Water_Pool.jpg</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="Water_Pool-material" name="Water_Pool">
+      <instance_effect url="#Water_Pool-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh" name="9825bf48-7d13-4110-8611-7ade020cbef0">
+      <mesh>
+        <source id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh-positions">
+          <float_array id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh-positions-array" count="12">-4.897349 2.03628e-7 4.658465 -4.897349 2.03628e-7 -5.351734 5.11285 2.03628e-7 -5.351734 5.11285 2.03628e-7 4.658465</float_array>
+          <technique_common>
+            <accessor source="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh-positions-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh-normals">
+          <float_array id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh-normals-array" count="3">0 -1 0</float_array>
+          <technique_common>
+            <accessor source="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh-normals-array" count="1" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh-map-0">
+          <float_array id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh-map-0-array" count="12">0 6.15782 -6.15782 0 0 0 0 6.15782 -6.15782 6.15782 -6.15782 0</float_array>
+          <technique_common>
+            <accessor source="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh-map-0-array" count="6" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="_825bf48-7d13-4110-8611-7ade020cbef0-mesh-vertices">
+          <input semantic="POSITION" source="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh-positions"/>
+        </vertices>
+        <triangles material="Water_Pool-material" count="2">
+          <input semantic="VERTEX" source="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh-map-0" offset="2" set="0"/>
+          <p>1 0 0 3 0 1 0 0 2 1 0 3 2 0 4 3 0 5</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="_825bf48-7d13-4110-8611-7ade020cbef0" name="9825bf48-7d13-4110-8611-7ade020cbef0" type="NODE">
+        <matrix sid="transform">100 0 0 0.04807758 0 -4.37114e-8 -100 -0.00831461 0 1 -4.37114e-6 0 0 0 0 1</matrix>
+        <instance_geometry url="#_825bf48-7d13-4110-8611-7ade020cbef0-mesh" name="9825bf48-7d13-4110-8611-7ade020cbef0">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Water_Pool-material" target="#Water_Pool-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="Camera_002" name="Camera.002" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_002-camera"/>
+      </node>
+      <node id="Camera_001" name="Camera.001" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_001-camera"/>
+      </node>
+      <node id="Camera" name="Camera" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054208 -0.6141704 -6.925791 0 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera-camera"/>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
