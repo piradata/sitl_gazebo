@@ -2,10 +2,6 @@
 <sdf version="1.5">
   <world name="default">
 
-    <gui>
-      <plugin name="video_widget" filename="libgazebo_video_stream_widget.so"/>
-    </gui>
-
     <!-- A global light source -->
     <include>
       <uri>model://sun</uri>
@@ -20,7 +16,28 @@
       <uri>model://asphalt_plane</uri>
     </include>-->
 
-<model name='gramado'>
+    <model name='Cordinha'>
+      <static>1</static>
+      <link name='link'>
+        <visual name='cordinha'>
+          <cast_shadows>1</cast_shadows>
+          <pose frame=''>0 0 0 0 00 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://fire_hose_long/meshes/</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <kinematic>0</kinematic>
+        <gravity>1</gravity>
+      </link>
+      <pose frame=''>-1.60345 -0.121386 0 0 -0 0</pose>
+    </model>
+
+
+    <model name='gramado'>
       <static>1</static>
       <link name='link'>
         <collision name='collision'>
@@ -65,6 +82,7 @@
       <pose frame=''>8.88656 -7.03656 0 0 -0 0</pose>
       <!--<pose frame=''>0.992834 -0.330124 0 0 -0 0</pose>-->
     </model>
+
     <model name='Painel Solar'>
       <static>1</static>
       <link name='link'>
@@ -342,13 +360,8 @@
       <shadows>1</shadows>
       <background>0.7 0.7 0.7 1</background>
     </scene>
-    <light name='sun1' type='directional'>
-      <pose frame=''>50 0 150 0 -0 0</pose>
-      <diffuse>1 1 1 1</diffuse>
-      <specular>0.1 0.1 0.1 1</specular>
-      <direction>0.3 0.3 -1</direction>
-      <cast_shadows>0</cast_shadows>
-    </light>
+
+
     <light name='sun_diffuse' type='directional'>
       <pose frame=''>-50 0 -150 0 -0 0</pose>
       <diffuse>0.6 0.6 0.6 1</diffuse>
@@ -356,20 +369,8 @@
       <direction>-0.3 -0.3 -1</direction>
       <cast_shadows>0</cast_shadows>
     </light>
-    <light name='sun2' type='directional'>
-      <pose frame=''>0 50 0 0 -0 0</pose>
-      <diffuse>1 1 1 1</diffuse>
-      <specular>0.1 0.1 0.1 1</specular>
-      <direction>-0.3 0.3 -1</direction>
-      <cast_shadows>0</cast_shadows>
-    </light>
-    <light name='sun3' type='directional'>
-      <pose frame=''>0 -50 0 0 -0 0</pose>
-      <diffuse>1 1 1 1</diffuse>
-      <specular>0.1 0.1 0.1 1</specular>
-      <direction>0.3 -0.3 1</direction>
-      <cast_shadows>0</cast_shadows>
-    </light>
+
+
     <model name='world_ned'>
       <pose frame=''>0 0 0 0 -0 0</pose>
       <static>1</static>
