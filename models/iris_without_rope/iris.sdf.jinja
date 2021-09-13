@@ -577,15 +577,5 @@
       <accelerometerBiasCorrelationTime>300.0</accelerometerBiasCorrelationTime>
       <accelerometerTurnOnBiasSigma>0.196</accelerometerTurnOnBiasSigma>
     </plugin>
-
-    <include>
-      <uri>model://fire_hose_long_curled</uri>
-      <pose>0 0 0 0 0 0</pose>
-    </include>
-
-    <joint name="drone_rope_link" type="universal">
-      <child>fire_hose_long_curled::nozzle</child>
-      <parent>base_link</parent>
-    </joint>
   </model>
 </sdf>

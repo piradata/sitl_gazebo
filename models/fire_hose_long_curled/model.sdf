@@ -54,12 +54,6 @@
           <mesh>
             <uri>model://fire_hose_long_curled/meshes/connector.dae</uri>
           </mesh>
-          <!--
-          <cylinder>
-            <length>0.025</length>
-            <radius>0.055</radius>
-          </cylinder>
--->
         </geometry>
         <material>
           <script>
