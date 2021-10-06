@@ -2,6 +2,13 @@
 <sdf version="1.5">
   <world name="default">
 
+    <gui>
+      <camera name="user_camera">
+        <projection_type>orthographic</projection_type>
+        <pose>3.03 -6.27 4.75 0 -0.87 0.11</pose>
+      </camera>
+    </gui>
+
     <include>
       <uri>model://sun</uri>
     </include>
