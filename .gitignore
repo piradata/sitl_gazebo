@@ -30,3 +30,5 @@ models/depth_camera/depth_camera.sdf
 models/standard_vtol_drop/standard_vtol_drop.sdf
 models/tailsitter/tailsitter.sdf
 models/iris_without_rope/iris.sdf
+models/iris_with_rope/iris.sdf
+models/iris_with_rope/iris_with_rope.sdf
