@@ -1178,6 +1178,7 @@
       <motorSpeedPubTopic>/motor_speed/5</motorSpeedPubTopic>
       <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
     </plugin>
+
     <plugin name='back_left_motor_model' filename='libgazebo_motor_model.so'>
       <robotNamespace></robotNamespace>
       <jointName>rotor_1_joint</jointName>
@@ -1195,6 +1196,7 @@
       <motorSpeedPubTopic>/motor_speed/4</motorSpeedPubTopic>
       <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
     </plugin>
+
     <plugin name='front_left_motor_model' filename='libgazebo_motor_model.so'>
       <robotNamespace></robotNamespace>
       <jointName>rotor_2_joint</jointName>
@@ -1212,6 +1214,7 @@
       <motorSpeedPubTopic>/motor_speed/3</motorSpeedPubTopic>
       <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
     </plugin>
+
     <plugin name='back_right_motor_model' filename='libgazebo_motor_model.so'>
       <robotNamespace></robotNamespace>
       <jointName>rotor_3_joint</jointName>
@@ -1229,6 +1232,7 @@
       <motorSpeedPubTopic>/motor_speed/2</motorSpeedPubTopic>
       <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
     </plugin>
+
     <plugin name='back_left_motor_model' filename='libgazebo_motor_model.so'>
       <robotNamespace></robotNamespace>
       <jointName>rotor_4_joint</jointName>
@@ -1246,6 +1250,7 @@
       <motorSpeedPubTopic>/motor_speed/1</motorSpeedPubTopic>
       <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
     </plugin>
+
     <plugin name='front_left_motor_model' filename='libgazebo_motor_model.so'>
       <robotNamespace></robotNamespace>
       <jointName>rotor_5_joint</jointName>
@@ -1263,9 +1268,11 @@
       <motorSpeedPubTopic>/motor_speed/0</motorSpeedPubTopic>
       <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>
     </plugin>
+
     <plugin name='groundtruth_plugin' filename='libgazebo_groundtruth_plugin.so'>
       <robotNamespace/>
     </plugin>
+
     <plugin name='magnetometer_plugin' filename='libgazebo_magnetometer_plugin.so'>
       <robotNamespace/>
       <pubRate>100</pubRate>
@@ -1274,11 +1281,14 @@
       <biasCorrelationTime>600</biasCorrelationTime>
       <magTopic>/mag</magTopic>
     </plugin>
+
     <plugin name='barometer_plugin' filename='libgazebo_barometer_plugin.so'>
       <robotNamespace/>
       <pubRate>50</pubRate>
       <baroTopic>/baro</baroTopic>
     </plugin>
+
+
     <plugin name='mavlink_interface' filename='libgazebo_mavlink_interface.so'>
       <robotNamespace></robotNamespace>
       <imuSubTopic>/imu</imuSubTopic>
@@ -1430,6 +1440,8 @@
       <accelerometerBiasCorrelationTime>300.0</accelerometerBiasCorrelationTime>
       <accelerometerTurnOnBiasSigma>0.196</accelerometerTurnOnBiasSigma>
     </plugin>
+
+
     <plugin name='gimbal_controller' filename='libgazebo_gimbal_controller_plugin.so'>
       <joint_yaw>typhoon_h480::cgo3_vertical_arm_joint</joint_yaw>
       <joint_roll>typhoon_h480::cgo3_horizontal_arm_joint</joint_roll>
@@ -1474,5 +1486,9 @@
       </control_gimbal_channels>
       <gimbal_imu>camera_imu</gimbal_imu>
     </plugin>
+
+
+
+
   </model>
 </sdf>

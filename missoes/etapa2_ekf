@@ -1,0 +1,126 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Dec  6 11:30:34 2020
+
+@author: gabryelsr
+"""
+
+import numpy as np
+from tinyekf import EKF
+import pandas as pd
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import axes3d
+
+
+class Drone_EKF(EKF):
+    '''
+    Classe EKF para fusão IMU, gps e imagem.  
+    '''
+
+    def __init__(self):
+
+        # 5 estados (x, y, yaw, om, v), 5 medições
+        EKF.__init__(self, 5, 5, pval=0.8, qval=0.8, rval=0.8)
+
+    def f(self, tetak):
+
+        # função de transição de estados conforme modelo
+        fj=np.eye(5)
+        # dtk=tetak[5]
+        # fj[2][3]=dtk
+        # fj[0][4]=dtk*np.cos(np.radians(tetak[2]))
+        # fj[1][4]=dtk*np.sin(np.radians(tetak[2]))
+        return np.copy(tetak), np.eye(len(tetak))
+
+
+    def h(self, tetak):
+
+        return np.copy(tetak), np.eye(len(tetak))
+    
+'''
+Dados dos sensores medidos na simulacao
+'''
+dados=pd.read_csv('/home/gabryelsr/src/Firmware/Tools/sitl_gazebo/missoes/log_etapa2.csv')
+x=dados['X'].tolist()
+x=x[0:len(x)]
+y=dados['Y'].tolist()
+y=y[0:len(y)]
+altura=dados['Altura'].tolist()
+altura=altura[0:len(altura)]
+yaw=dados['Orientacao'].tolist()
+yaw=yaw[0:len(yaw)]
+t=dados['Tempo'].tolist()
+t=t[0:len(t)]
+
+'''
+Dados estimados com Kalman
+'''
+x_kalman=[]
+x_kalman.append(x[0])
+y_kalman=[]
+y_kalman.append(y[0])
+yaw_kalman=[]
+yaw_kalman.append(yaw[0])
+om_kalman=[]
+om_kalman.append((yaw[1]-yaw[0])/(t[1]-t[0]))
+v_kalman=[]
+v_kalman.append(np.sqrt(((x[1]-x[0])**2)+((y[1]-y[0])**2))/(t[1]-t[0]))
+
+if __name__ == '__main__':
+    
+    ekf=Drone_EKF()
+    
+    pontos_medidos=[]
+    pontos_kalman=[]
+    
+    for i in range(len(x)-1):
+        xk=x[i+1]
+        yk=y[i+1]
+        yawk=yaw[i+1]
+        dt=t[i+1]-t[i]
+        omk=(yaw[i+1]-yaw[i])/dt
+        vk=np.sqrt(((x[i]-x[i+1])**2)+((y[i]-y[i+1])**2))/dt
+        
+        estimativa=ekf.step((xk,yk,yawk,omk,vk))
+        x_kalman.append(estimativa[0])
+        y_kalman.append(estimativa[1])
+        yaw_kalman.append(estimativa[2])
+        om_kalman.append(estimativa[3])
+        v_kalman.append(estimativa[4])
+        
+    t_kalman=t[0:len(t)]
+    altura_kalman=altura[0:len(altura)]
+    log_kalman_etapa2={'X_k':x_kalman, 'Y_k':y_kalman, 'Altura':altura_kalman, 'Orientacao_k':yaw_kalman, 'Tempo':t_kalman}
+    log_kalman_etapa2 = pd.DataFrame(data=log_kalman_etapa2)
+    log_kalman_etapa2.to_csv('/home/gabryelsr/src/Firmware/Tools/sitl_gazebo/missoes/log_kalman_etapa2.csv', index=False)
+    
+    plt.clf()
+    normal=plt.scatter(t[3:len(t)],yaw[3:len(yaw)], alpha=0.5, marker='*', color='blue',label='Yaw')
+    yaw_kalman[0]=yaw[0]
+    yaw_kalman[1]=yaw[1]
+    yaw_kalman[2]=yaw[2]
+    yaw_kalman[3]=yaw[3]
+    yaw_kalman[4]=yaw[4]
+    yaw_kalman[5]=yaw[6]
+    kalman=plt.plot(t_kalman[3:len(t_kalman)],yaw_kalman[3:len(yaw_kalman)],color='red',label='Yaw_kalman')
+    plt.legend()
+    plt.xlabel('Tempo (s)')
+    plt.ylabel('Orientacao (º)')
+    plt.title('Orientacao x Tempo de Simulacao')
+    plt.grid()
+    #plt.show()
+    plt.savefig('log_OrientacaoxTempo_etapa2_EKF.png')
+    
+    plt.clf()
+    fig=plt.figure()
+    ax = plt.axes(projection='3d')
+    ax.plot3D(x_kalman[3:len(x_kalman)],y_kalman[3:len(x_kalman)],altura_kalman[3:len(altura_kalman)], color='red', label='Posicao_kalman')
+    ax.scatter3D(x[3:len(x)],y[3:len(y)],altura[3:len(altura)], alpha=0.1, color='blue', label='Posicao')
+    ax.set_xlabel('X (m)')
+    ax.set_ylabel('Y (m)')
+    ax.set_zlabel('Altura (m)')
+    ax.set_title('Orientacao x Tempo de Simulacao')
+    plt.legend()
+    fig.savefig('log_posicaoDrone_etapa2_EKF.png')                        
+        

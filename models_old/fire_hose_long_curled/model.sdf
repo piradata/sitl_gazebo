@@ -1,0 +1,303 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="fire_hose_long_curled">
+    <pose>0 0 0 0 0 0</pose>
+    <link name="link_00">
+      <gravity>true</gravity>
+      <pose>0 0 0 0 0 0</pose>
+      <inertial>
+        <mass>0.001</mass>
+        <pose>0.1 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.01</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>0.01</iyy>
+          <iyz>0</iyz>
+          <izz>0.01</izz>
+        </inertia>
+      </inertial>
+      <collision name="collision">
+        <pose>0.1 0 0 0 1.570790 0</pose>
+        <geometry>
+          <cylinder>
+            <length>0.2</length>
+            <radius>0.015</radius>
+          </cylinder>
+        </geometry>
+        <surface>
+          <contact>
+            <ode>
+              <min_depth>0.005</min_depth>
+            </ode>
+          </contact>
+          <friction>
+            <ode>
+              <mu>1.0</mu>
+              <mu2>1.0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="visual">
+        <pose>0.1 0 0 0 1.570790 0</pose>
+        <geometry>
+          <cylinder>
+            <length>0.2</length>
+            <radius>0.015</radius>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+          <specular>0.1 0.1 0.1 1</specular>
+          <emissive>0 0 0 0</emissive>
+        </material>
+      </visual>
+    </link>
+    <joint name="joint_00_01" type="universal">
+      <parent>link_00</parent>
+      <child>link_01</child>
+      <axis>
+        <xyz>0 1 0</xyz>
+        <limit>
+          <lower>-1.57</lower>
+          <upper>1.57</upper>
+        </limit>
+        <dynamics>
+          <damping>1.0</damping>
+        </dynamics>
+        <use_parent_model_frame>true</use_parent_model_frame>
+      </axis>
+      <axis2>
+        <xyz>0 0 1</xyz>
+        <limit>
+          <lower>-1.57</lower>
+          <upper>1.57</upper>
+        </limit>
+        <dynamics>
+          <damping>1.0</damping>
+        </dynamics>
+        <use_parent_model_frame>true</use_parent_model_frame>
+      </axis2>
+      <physics>
+        <ode>
+          <cfm_damping>1</cfm_damping>
+        </ode>
+      </physics>
+    </joint>
+    <link name="link_01">
+      <gravity>true</gravity>
+      <pose>0.2 0 0 0 0 0</pose>
+      <inertial>
+        <mass>0.01</mass>
+        <pose>0.2 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.01</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>0.01</iyy>
+          <iyz>0</iyz>
+          <izz>0.01</izz>
+        </inertia>
+      </inertial>
+      <collision name="collision">
+        <pose>0.2 0 0 0 1.570790 0</pose>
+        <geometry>
+          <cylinder>
+            <length>0.4</length>
+            <radius>0.015</radius>
+          </cylinder>
+        </geometry>
+        <surface>
+          <contact>
+            <ode>
+              <min_depth>0.005</min_depth>
+            </ode>
+          </contact>
+          <friction>
+            <ode>
+              <mu>1.0</mu>
+              <mu2>1.0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="visual">
+        <pose>0.2 0 0 0 1.570790 0</pose>
+        <geometry>
+          <cylinder>
+            <length>0.4</length>
+            <radius>0.015</radius>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+          <specular>0.1 0.1 0.1 1</specular>
+          <emissive>0 0 0 0</emissive>
+        </material>
+      </visual>
+    </link>
+    <joint name="joint_01_02" type="universal">
+      <parent>link_01</parent>
+      <child>link_02</child>
+      <axis>
+        <xyz>0 1 0</xyz>
+        <limit>
+          <lower>-1.57</lower>
+          <upper>1.57</upper>
+        </limit>
+        <dynamics>
+          <damping>1.0</damping>
+        </dynamics>
+        <use_parent_model_frame>true</use_parent_model_frame>
+      </axis>
+      <axis2>
+        <xyz>0 0 1</xyz>
+        <limit>
+          <lower>-1.57</lower>
+          <upper>1.57</upper>
+        </limit>
+        <dynamics>
+          <damping>1.0</damping>
+        </dynamics>
+        <use_parent_model_frame>true</use_parent_model_frame>
+      </axis2>
+      <physics>
+        <ode>
+          <cfm_damping>1</cfm_damping>
+        </ode>
+      </physics>
+    </joint>
+    <link name="link_02">
+      <gravity>true</gravity>
+      <pose>0.6 0 0 0 0 0</pose>
+      <inertial>
+        <mass>0.01</mass>
+        <pose>0.2 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.01</ixx>
+          <ixy>0</ixy>material
+          <iyz>0</iyz>
+          <izz>0.01</izz>
+        </inertia>
+      </inertial>
+      <collision name="collision">
+        <pose>0.2 0 0 0 1.570790 0</pose>
+        <geometry>
+          <cylinder>
+            <length>0.4</length>
+            <radius>0.015</radius>
+          </cylinder>
+        </geometry>
+        <surface>
+          <contact>
+            <ode>
+              <min_depth>0.005</min_depth>
+            </ode>
+          </contact>
+          <friction>
+            <ode>
+              <mu>1.0</mu>
+              <mu2>1.0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="visual">
+        <pose>0.2 0 0 0 1.570790 0</pose>
+        <geometry>
+          <cylinder>
+            <length>0.4</length>
+            <radius>0.015</radius>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+          <specular>0.1 0.1 0.1 1</specular>
+          <emissive>0 0 0 0</emissive>
+        </material>
+      </visual>
+    </link>
+    <joint name="joint_02_cable" type="universal">
+      <parent>link_02</parent>
+      <child>cable_ball</child>
+      <axis>
+        <xyz>0 1 0</xyz>
+        <limit>
+          <lower>-1.57</lower>
+          <upper>1.57</upper>
+        </limit>
+        <dynamics>
+          <damping>1.0</damping>
+        </dynamics>
+        <use_parent_model_frame>true</use_parent_model_frame>
+      </axis>
+      <axis2>
+        <xyz>0 0 1</xyz>
+        <limit>
+          <lower>-1.57</lower>
+          <upper>1.57</upper>
+        </limit>
+        <dynamics>
+          <damping>1.0</damping>
+        </dynamics>
+        <use_parent_model_frame>true</use_parent_model_frame>
+      </axis2>
+      <physics>
+        <ode>
+          <cfm_damping>1</cfm_damping>
+        </ode>
+      </physics>
+    </joint>
+    <link name="cable_ball">
+      <pose>1.0 0 0 0 0 0</pose>
+      <inertial>
+        <mass>0.1</mass>
+        <inertia>
+          <ixx>0.01</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>0.01</iyy>
+          <iyz>0</iyz>
+          <izz>0.01</izz>
+        </inertia>
+      </inertial>
+      <collision name="cable_ball_collision">
+        <geometry>
+          <sphere>
+            <radius>0.1</radius>
+          </sphere>
+        </geometry>
+        <surface>
+          <contact>
+            <ode>
+              <min_depth>0.005</min_depth>
+            </ode>
+          </contact>
+          <friction>
+            <ode>
+              <mu>1.0</mu>
+              <mu2>1.0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="cable_ball_visual">
+        <geometry>
+          <sphere>
+            <radius>0.1</radius>
+          </sphere>
+        </geometry>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+          <specular>0.1 0.1 0.1 1</specular>
+          <emissive>0 0 0 0</emissive>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

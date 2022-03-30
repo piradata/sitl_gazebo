@@ -1,20 +1,331 @@
 <?xml version="1.0" ?>
 <sdf version="1.5">
   <world name="default">
+
     <gui>
       <plugin name="video_widget" filename="libgazebo_video_stream_widget.so"/>
     </gui>
+
     <!-- A global light source -->
     <include>
       <uri>model://sun</uri>
     </include>
+
     <!-- A ground plane -->
-    <include>
+   <!--<include>
       <uri>model://ground_plane</uri>
     </include>
+
     <include>
       <uri>model://asphalt_plane</uri>
-    </include>
+    </include>-->
+
+  <model name="Helideck FPSO">
+    <static>true</static>
+    <link name="link">
+    <collision name="helideck">
+	<cast_shadows>true</cast_shadows>
+        <pose>0 0 0 3.14 0 0</pose>
+	<scale>2 2 1</scale>
+        <geometry>
+          <mesh><uri>model://helideck/meshes/helideckdae.dae</uri></mesh>
+        </geometry>
+      </collision>
+      <visual name="helideck">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 0 3.14 0 0</pose>
+	<scale>2 2 1</scale>
+        <geometry>
+          <mesh><uri>model://helideck/meshes/helideckdae.dae</uri></mesh>
+        </geometry>
+      </visual>
+	<visual name="helideck2">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -0.1 0 0 0</pose>
+	<scale>2 2 1</scale>
+        <geometry>
+          <mesh><uri>model://helideck/meshes/helideckdae.dae</uri></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+  <model name="Helideck NT">
+    <static>true</static>
+    <link name="link">
+    <collision name="helideck3">
+	<cast_shadows>true</cast_shadows>
+        <pose>-8.35351 -318.04 -36.95941 3.14 -0 0</pose>
+        <geometry>
+          <mesh><uri>model://helideck/meshes/helideckdae.dae</uri></mesh>
+        </geometry>
+      </collision>
+      <visual name="helideck3">
+        <cast_shadows>true</cast_shadows>
+        <pose>-8.35351 -318.04 -36.95941 3.14 -0 0</pose>
+        <geometry>
+          <mesh><uri>model://helideck/meshes/helideckdae.dae</uri></mesh>
+        </geometry>
+      </visual>
+	<visual name="helideck4">
+        <cast_shadows>true</cast_shadows>
+        <pose>-8.35351 -318.04 -36.85941 0 -0 0</pose>
+        <geometry>
+          <mesh><uri>model://helideck/meshes/helideckdae.dae</uri></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+  <model name="Placa QR">
+    <static>true</static>
+    <link name="link">
+    <collision name="placaqr">
+	<cast_shadows>true</cast_shadows>
+        <pose>-4.342632 -290.583344 -36.036732 1.13447 0.026008 1.808639</pose>
+        <geometry>
+          <mesh><uri>model://placaqr/meshes/placaQR.dae</uri></mesh>
+        </geometry>
+      </collision>
+      <visual name="placaqr2">
+        <cast_shadows>true</cast_shadows>
+        <pose>-4.342632 -290.583344 -36.036732 1.13447 0.026008 1.808639</pose>
+        <geometry>
+          <mesh><uri>model://placaqr/meshes/placaQR.dae</uri></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+  <model name="Superficie Marinha">
+    <static>true</static>
+    <link name="link">
+      <visual name="superficie_mar">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -67.266701 3.14 0 0</pose>
+        <geometry>
+          <mesh><uri>model://superficie_mar/meshes/superficie_agua.dae</uri></mesh>
+        </geometry>
+      </visual>
+	<visual name="superficie_mar2">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -69.266701 0 0 0</pose>
+        <geometry>
+          <mesh><uri>model://superficie_mar/meshes/superficie_agua.dae</uri></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+  <model name="Flutua">
+    <static>true</static>
+    <link name="link">
+      <collision name="superficie_flutua">
+	<cast_shadows>true</cast_shadows>
+        <pose>0 0 -86.366701 3.14 0 0</pose>
+        <geometry>
+          <mesh><uri>model://superficie_flutua/meshes/superficie_agua.dae</uri></mesh>
+        </geometry>
+      </collision>
+      <visual name="superficie_flutua">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -86.366701 3.14 0 0</pose>
+        <geometry>
+          <mesh><uri>model://superficie_flutua/meshes/superficie_agua.dae</uri></mesh>
+        </geometry>
+      </visual>
+      <visual name="superficie_flutua2">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -88.366701 0 0 0</pose>
+        <geometry>
+          <mesh><uri>model://superficie_flutua/meshes/superficie_agua.dae</uri></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+    <model name="Solo Marinho">
+    <static>true</static>
+    <link name="link">
+      <collision name="solo_marinho">
+        <pose>0 0 -154.266701 3.14 0 0</pose>
+        <geometry>
+          <mesh><uri>model://solo_marinho/meshes/areia3.dae</uri></mesh>
+        </geometry>
+      </collision>
+      <visual name="solo_marinho">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -154.266701 3.14 0 0</pose>
+        <geometry>
+          <mesh><uri>model://solo_marinho/meshes/areia3.dae</uri></mesh>
+        </geometry>
+      </visual>
+      <visual name="solo_marinho2">
+        <cast_shadows>true</cast_shadows>
+        <pose>0 0 -156.266701 0 0 0</pose>
+        <geometry>
+          <mesh><uri>model://solo_marinho/meshes/areia3.dae</uri></mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+   <model name="replicante">
+    <link name="link">
+      <pose>-13.572979 190.714013 -68.596881 -0.015928 0.000156 0.000501</pose>
+      <inertial>
+        <mass>1000000</mass>
+	<inertia>
+          <ixx>17000000000</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>17000000000</iyy>
+          <iyz>0</iyz>
+          <izz>17000000000</izz>
+	</inertia>
+      </inertial>
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://replicante/meshes/replicante9.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://replicante/meshes/replicante9.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+  <model name="aliviador">
+    <link name="link">
+      <pose>-34.4309 -330.543 -63.324482 0 -0 2.94184</pose>
+      <inertial>
+        <mass>1000000</mass>
+	    <inertia>
+          <ixx>17000000000</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>17000000000</iyy>
+          <iyz>0</iyz>
+          <izz>17000000000</izz>
+	</inertia>
+      </inertial>
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://aliviador/meshes/aliviador2.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://aliviador/meshes/aliviador2.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+
+    <scene>
+      <ambient>0.01 0.01 0.01 1</ambient>
+      <sky>
+        <clouds>
+          <speed>12</speed>
+        </clouds>
+      </sky>
+      <shadows>1</shadows>
+      <background>0.7 0.7 0.7 1</background>
+    </scene>
+    <light name='sun1' type='directional'>
+      <pose frame=''>50 0 150 0 -0 0</pose>
+      <diffuse>1 1 1 1</diffuse>
+      <specular>0.1 0.1 0.1 1</specular>
+      <direction>0.3 0.3 -1</direction>
+      <cast_shadows>0</cast_shadows>
+    </light>
+    <light name='sun_diffuse' type='directional'>
+      <pose frame=''>-50 0 -150 0 -0 0</pose>
+      <diffuse>0.6 0.6 0.6 1</diffuse>
+      <specular>0 0 0 1</specular>
+      <direction>-0.3 -0.3 -1</direction>
+      <cast_shadows>0</cast_shadows>
+    </light>
+    <light name='sun2' type='directional'>
+      <pose frame=''>0 50 0 0 -0 0</pose>
+      <diffuse>1 1 1 1</diffuse>
+      <specular>0.1 0.1 0.1 1</specular>
+      <direction>-0.3 0.3 -1</direction>
+      <cast_shadows>0</cast_shadows>
+    </light>
+    <light name='sun3' type='directional'>
+      <pose frame=''>0 -50 0 0 -0 0</pose>
+      <diffuse>1 1 1 1</diffuse>
+      <specular>0.1 0.1 0.1 1</specular>
+      <direction>0.3 -0.3 1</direction>
+      <cast_shadows>0</cast_shadows>
+    </light>
+    <model name='world_ned'>
+      <pose frame=''>0 0 0 0 -0 0</pose>
+      <static>1</static>
+      <link name='world_ned'>
+        <gravity>0</gravity>
+        <pose frame=''>0 0 0 -3.14159 -0 1.5708</pose>
+        <visual name='N_visual'>
+          <pose frame=''>0.25 0 0 1.5708 -0 1.5708</pose>
+          <geometry>
+            <cylinder>
+              <radius>0.01</radius>
+              <length>0.5</length>
+            </cylinder>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='E_visual'>
+          <pose frame=''>0 0.25 0 1.5708 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <radius>0.01</radius>
+              <length>0.5</length>
+            </cylinder>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+        <visual name='D_visual'>
+          <pose frame=''>0 0 0.25 0 -0 0</pose>
+          <geometry>
+            <cylinder>
+              <radius>0.01</radius>
+              <length>0.5</length>
+            </cylinder>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Blue</name>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <kinematic>0</kinematic>
+      </link>
+    </model>
+
     <physics name='default_physics' default='0' type='ode'>
       <gravity>0 0 -9.8066</gravity>
       <ode>

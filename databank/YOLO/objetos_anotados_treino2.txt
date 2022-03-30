@@ -1,0 +1,581 @@
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image0.png 28,38,228,153,0 43,101,219,142,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image1.png 114,5,180,37,3 71,75,231,162,1 67,4,233,163,0 74,38,221,69,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image2.png 117,56,218,130,1 63,77,115,128,2 19,79,61,127,3 18,54,220,131,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image3.png 40,114,223,194,1 81,13,158,42,3 50,44,211,112,2 46,19,221,191,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image4.png 40,34,104,92,3 174,49,219,92,1 105,50,172,91,2 41,32,218,92,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image5.png 63,38,172,154,3 201,66,246,89,1 62,46,247,156,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image6.png 227,49,306,115,1 14,19,109,114,3 15,40,308,114,0 110,59,225,113,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image7.png 114,104,138,118,1 115,99,232,117,0 139,106,198,117,2 200,98,231,116,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image8.png 15,100,246,156,1 16,62,246,156,0 35,41,206,101,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image9.png 56,49,246,132,0 64,66,189,116,2 194,89,246,133,1 54,43,101,63,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image10.png 4,59,262,143,0 17,70,162,140,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image11.png 3,36,93,91,0 7,35,83,84,1 118,22,281,165,3 1,67,288,164,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image12.png 7,92,168,183,1 174,5,263,42,3 11,13,256,179,0 67,44,252,90,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image13.png 84,102,239,191,1 17,16,101,58,3 21,21,227,188,0 33,64,203,104,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image14.png 231,45,291,84,3 29,52,67,84,1 70,56,230,84,2 31,51,287,85,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image15.png 193,69,282,147,1 16,39,285,149,0 18,31,64,95,3 69,51,191,145,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image16.png 124,99,189,140,2 29,88,121,141,1 190,80,239,127,3 27,77,241,142,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image17.png 236,14,307,57,3 110,53,276,95,2 27,20,311,146,0 28,81,134,145,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image18.png 80,51,182,81,1 3,82,259,166,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image19.png 94,85,192,113,2 190,61,234,90,3 27,99,91,132,1 30,63,235,132,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image20.png 150,39,243,84,2 71,82,154,132,1 219,13,266,43,3 75,20,268,135,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image21.png 78,60,124,92,3 77,56,288,92,0 125,72,249,92,2 250,63,286,93,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image22.png 23,82,255,127,0 66,88,198,122,2 201,78,251,123,3 19,88,64,125,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image23.png 28,14,196,161,1 198,63,253,163,2 24,10,271,161,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image24.png 36,21,238,149,0 44,43,186,66,2 99,67,233,146,1 40,22,80,42,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image25.png 222,38,270,64,3 105,60,252,90,2 8,45,264,150,0 9,87,117,149,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image26.png 182,91,241,151,2 243,107,268,149,1 38,44,265,147,0 37,42,179,152,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image27.png 77,65,248,116,2 1,55,293,122,0 1,62,74,124,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image28.png 227,59,350,129,1 21,9,82,63,3 86,33,225,113,2 23,5,348,123,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image29.png 101,107,207,133,2 56,92,100,131,3 208,109,260,133,1 57,97,259,132,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image30.png 71,14,196,156,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image31.png 146,116,172,135,1 77,116,128,136,2 131,108,157,120,1 43,140,76,161,3 48,154,87,188,3 96,133,154,166,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image32.png 12,38,99,102,3 101,50,301,99,2 302,45,355,99,1 11,43,356,99,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image33.png 36,55,91,114,3 36,55,262,151,0 93,77,202,146,2 211,92,259,150,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image34.png 132,108,203,161,1 83,23,123,43,3 89,43,183,103,2 84,26,195,162,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image35.png 152,44,278,160,1 102,89,158,129,3 1,93,159,127,0 4,98,101,127,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image36.png 3,96,93,134,1 210,78,297,130,3 7,77,297,131,0 97,97,211,130,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image37.png 63,30,195,195,0 69,136,204,197,1 65,60,194,134,2 62,29,133,57,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image38.png 0,59,300,168,2 106,37,191,57,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image39.png 32,0,210,82,0 181,3,310,140,0 268,0,310,25,3 113,1,266,104,0 30,39,84,81,1 181,59,262,141,1 113,48,175,106,1 177,0,211,16,3 227,0,267,18,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image40.png 19,76,250,120,0 189,74,249,117,3 75,89,188,118,2 17,88,73,119,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image41.png 92,93,167,122,2 62,61,132,92,3 59,58,238,124,0 169,86,238,122,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image42.png 8,59,102,145,3 109,17,240,102,2 247,6,295,69,1 7,13,295,140,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image43.png 29,116,83,162,1 84,105,159,124,2 161,80,200,123,3 29,87,199,159,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image44.png 276,72,299,112,2 33,75,125,116,1 154,11,276,110,3 152,30,299,111,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image45.png 17,12,225,154,3 19,17,288,154,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image46.png 20,3,145,45,3 24,12,337,124,0 191,63,335,115,1 47,46,271,63,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image47.png 18,71,278,141,0 91,81,212,138,2 213,69,275,129,3 17,77,89,141,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image48.png 120,18,173,36,2 94,10,191,37,0 18,17,240,149,0 17,14,57,37,3 121,77,240,151,1 95,9,119,23,3 174,21,191,37,1 22,37,177,75,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image49.png 98,34,178,122,2 94,13,180,165,0 94,11,128,30,3 130,124,185,164,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image50.png 103,102,244,161,1 24,18,244,162,0 29,48,212,99,2 22,17,94,47,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image51.png 48,38,167,91,3 47,92,169,178,1 47,53,169,178,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image52.png 251,88,278,118,1 14,68,276,118,0 96,90,249,117,2 14,62,94,117,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image53.png 37,20,161,85,0 119,47,160,87,3 37,16,57,43,1 59,23,116,74,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image54.png 131,20,160,35,1 184,33,201,45,3 133,21,231,134,0 234,76,248,87,1 174,81,232,132,3 171,18,181,27,1 136,36,203,80,2 171,17,201,47,0 267,105,292,131,3 174,28,188,33,2 234,77,292,129,0 238,89,272,107,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image55.png 48,26,285,127,0 130,20,284,128,3 49,89,107,127,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image56.png 0,0,237,213,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image57.png 25,31,64,52,3 33,53,164,75,2 120,76,218,141,1 25,40,217,140,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image58.png 82,67,253,115,2 12,81,74,151,1 231,34,290,74,3 12,41,289,148,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image59.png 13,58,252,112,0 230,78,252,110,1 12,55,90,114,3 88,80,229,112,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image60.png 36,34,175,103,2 175,62,268,144,1 34,0,99,32,3 34,9,268,142,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image61.png 31,14,233,135,0 32,8,175,136,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image62.png 25,35,199,71,2 20,0,87,30,3 20,4,264,153,0 124,74,266,147,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image63.png 80,0,122,17,3 75,51,200,165,1 72,5,198,166,0 157,0,241,30,0 156,0,177,13,3 178,8,218,29,2 74,17,170,49,2 219,9,239,32,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image64.png 17,44,256,149,0 103,67,253,139,2 213,38,259,65,3 17,104,92,157,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image65.png 21,69,303,111,0 76,79,233,110,2 236,58,304,111,3 20,65,74,111,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image66.png 189,49,232,73,3 50,82,108,131,1 108,73,227,84,2 51,57,230,131,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image67.png 0,72,155,168,0 161,80,300,168,0 56,50,153,89,1 158,114,300,168,2 164,65,268,112,1 0,92,153,165,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image68.png 208,69,241,94,3 19,58,240,111,0 18,56,158,111,1 161,73,207,103,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image69.png 18,37,268,148,0 202,64,269,147,1 74,64,199,143,2 18,32,73,115,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image70.png 37,47,241,151,0 154,96,241,153,1 36,32,96,66,3 44,67,153,130,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image71.png 84,0,239,149,2 83,0,278,160,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image72.png 106,89,213,137,1 105,59,213,137,0 141,53,183,67,3 114,67,207,88,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image73.png 17,69,97,137,1 17,85,216,137,0 99,92,163,131,2 162,88,218,127,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image74.png 189,133,227,160,3 78,139,227,160,0 121,140,187,159,2 79,144,119,160,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image75.png 43,129,104,184,3 42,136,187,184,0 166,146,187,183,1 105,153,164,182,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image76.png 13,75,262,157,0 10,34,96,151,3 143,82,263,159,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image77.png 59,71,277,102,0 116,81,225,101,2 59,68,114,104,1 225,64,277,102,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image78.png 9,50,91,111,3 226,80,249,112,1 92,76,225,112,2 10,59,251,112,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image79.png 231,45,276,75,3 18,54,275,157,0 18,94,82,156,1 87,77,270,122,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image80.png 150,124,207,176,1 26,124,148,172,2 11,103,54,125,3 12,111,209,174,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image81.png 22,87,99,149,1 199,76,284,149,3 102,96,202,147,2 22,85,284,148,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image82.png 0,30,300,166,0 84,13,200,49,1 2,50,300,168,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image83.png 35,26,220,163,0 246,143,264,158,0 37,30,220,162,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image84.png 189,69,299,119,1 0,48,299,114,0 65,73,187,114,2 0,31,59,113,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image85.png 41,68,111,133,3 40,71,300,130,0 111,100,300,128,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image86.png 159,30,209,49,3 97,51,207,78,2 68,35,206,131,0 65,78,177,132,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image87.png 117,136,224,147,2 94,129,265,148,0 225,125,266,148,3 93,131,115,146,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image88.png 52,73,275,183,2 119,56,174,71,1 49,58,275,183,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image89.png 83,43,124,94,2 12,12,80,67,3 9,26,189,96,0 259,84,271,93,1 126,34,191,96,1 197,78,219,93,3 197,80,272,93,0 221,85,257,93,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image90.png 222,57,232,66,3 152,115,172,128,1 28,53,35,61,3 30,116,172,148,0 27,53,64,61,0 31,121,61,149,3 62,119,151,140,2 222,56,263,68,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image91.png 251,95,285,113,3 73,74,288,139,0 179,88,250,137,2 73,76,176,137,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image92.png 220,33,309,105,1 76,59,219,104,2 31,66,75,86,3 30,52,309,105,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image93.png 47,71,229,105,2 21,38,235,162,0 140,21,235,70,3 21,107,149,164,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image94.png 0,61,281,166,0 0,76,135,168,1 139,82,220,147,2 224,59,281,119,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image95.png 111,17,141,24,0 109,65,222,114,2 111,16,119,24,3 33,58,246,125,0 222,52,247,78,1 33,62,109,123,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image96.png 34,88,165,124,2 12,73,252,125,0 171,65,252,126,3 11,85,31,120,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image97.png 83,107,152,132,2 244,81,267,95,2 18,84,82,130,3 85,81,147,108,0 212,69,242,97,3 85,74,128,107,3 20,91,182,131,0 153,94,181,129,1 213,70,283,96,0 268,76,281,94,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image98.png 75,98,232,128,2 234,92,269,129,1 14,79,73,127,3 14,85,269,130,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image99.png 0,27,275,183,0 0,49,275,183,2 112,25,162,52,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image100.png 34,51,104,109,3 34,48,282,112,0 217,56,277,112,1 106,72,214,111,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image101.png 10,29,180,257,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image102.png 16,26,348,139,0 22,64,340,137,2 115,25,227,62,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image103.png 86,60,230,100,2 37,91,160,148,1 34,28,241,150,0 169,31,240,66,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image104.png 90,51,164,84,2 167,50,219,85,1 49,52,88,84,3 47,48,222,87,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image105.png 107,67,258,134,1 90,46,266,147,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image106.png 170,96,182,99,3 75,97,119,111,2 144,96,174,104,2 200,95,223,100,0 174,97,190,104,1 186,96,193,99,3 124,92,143,101,3 48,96,74,112,3 122,91,188,105,0 120,98,157,111,1 45,94,158,115,0 168,95,207,102,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image107.png 141,93,198,139,1 51,73,202,140,0 44,73,81,115,3 83,85,137,137,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image108.png 22,29,124,61,1 17,26,264,158,0 23,62,271,140,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image109.png 98,5,194,159,0 123,8,168,31,3 112,33,183,66,2 96,70,196,159,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image110.png 30,49,235,124,0 31,88,50,125,1 103,30,236,130,3 51,73,111,129,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image111.png 78,63,163,130,2 1,43,218,141,0 2,48,76,140,3 165,51,221,118,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image112.png 83,66,235,146,1 85,21,249,140,0 185,15,254,39,3 122,42,252,64,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image113.png 83,76,376,130,2 170,54,288,74,1 83,55,380,128,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image114.png 32,46,261,173,0 96,80,255,116,2 35,105,200,167,1 172,34,263,96,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image115.png 1,118,253,155,0 3,120,180,156,2 181,113,249,157,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image116.png 65,100,103,138,2 31,88,183,141,0 109,90,181,139,1 28,91,63,136,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image117.png 18,31,271,111,0 15,67,78,112,1 73,48,210,84,2 213,26,271,75,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image118.png 130,75,223,139,2 226,70,308,138,3 4,69,310,141,0 6,74,126,139,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image119.png 21,6,304,121,0 68,44,295,125,1 28,29,207,43,2 25,1,123,26,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image120.png 22,79,260,123,0 21,87,60,120,3 64,90,187,123,2 190,82,255,123,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image121.png 134,66,248,94,1 134,96,255,164,2 132,63,257,166,0 1,59,123,166,0 1,82,121,165,2 10,59,131,82,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image122.png 16,37,60,81,1 62,42,185,101,2 188,35,283,119,3 15,25,280,113,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image123.png 13,37,278,181,0 22,72,278,178,2 152,33,276,70,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image124.png 98,0,132,24,0 70,13,89,21,2 88,110,122,128,2 117,25,167,77,0 102,4,126,11,2 120,24,151,40,1 136,48,167,76,3 149,78,282,167,0 125,41,158,52,2 182,143,280,165,3 68,29,102,78,0 159,104,255,141,2 70,37,98,54,2 82,95,126,166,0 89,130,129,165,3 153,72,209,101,1 69,3,90,33,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image125.png 38,123,76,144,2 8,124,36,144,1 4,122,107,145,0 78,119,106,144,3 132,4,297,148,0 143,29,289,149,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image126.png 15,52,226,143,0 62,67,168,138,2 18,57,57,97,3 172,101,226,147,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image127.png 251,14,295,61,3 60,54,140,104,1 54,23,291,107,0 142,41,254,92,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image128.png 47,93,158,139,2 9,93,46,139,1 11,90,251,136,0 159,80,249,140,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image129.png 147,64,224,146,3 2,36,40,88,1 2,33,222,147,0 41,45,145,128,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image130.png 2,35,216,84,0 141,35,225,85,3 11,38,139,85,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image131.png 64,38,246,176,0 89,76,221,116,2 59,32,145,74,3 153,103,249,180,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image132.png 1,54,263,135,0 2,69,124,133,2 127,47,257,133,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image133.png 15,47,126,139,1 129,67,217,136,2 191,57,272,133,3 22,38,277,133,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image134.png 26,40,59,95,3 163,71,245,133,1 24,48,243,135,0 60,60,161,126,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image135.png 199,53,249,92,3 31,97,100,140,1 33,58,241,144,0 84,78,195,122,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image136.png 9,74,283,139,0 71,82,176,133,2 181,70,279,136,1 10,66,69,129,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image137.png 161,87,207,107,2 99,79,133,99,2 190,65,225,95,3 76,90,106,113,1 143,70,222,128,0 79,65,155,109,0 141,99,185,133,1 131,68,160,88,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image138.png 28,45,266,124,0 26,56,141,124,1 142,72,218,122,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image139.png 107,98,238,169,1 8,42,243,166,0 8,33,80,77,3 18,76,173,112,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image140.png 39,90,162,136,2 166,70,246,133,3 4,94,38,136,1 5,88,243,136,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image141.png 69,111,169,167,2 0,110,65,168,1 2,92,223,165,0 141,88,223,164,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image142.png 78,71,268,110,2 19,96,217,163,1 28,32,286,164,0 175,12,285,86,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image143.png 169,62,212,105,3 74,87,175,131,2 15,109,83,169,1 19,70,210,167,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image144.png 100,103,256,136,2 5,74,98,142,3 7,83,258,138,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image145.png 163,60,268,100,2 42,20,275,99,0 45,18,160,100,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image146.png 103,49,138,69,1 206,117,256,162,3 24,41,135,68,0 64,126,203,164,2 10,130,62,167,1 15,115,256,165,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image147.png 216,51,283,106,3 107,60,215,108,2 38,63,105,111,1 40,55,285,108,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image148.png 220,110,275,146,1 4,102,89,139,3 92,115,219,147,2 2,106,272,142,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image149.png 47,66,86,97,3 52,62,158,139,0 108,93,158,142,1 57,88,112,126,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image150.png 26,123,159,170,1 31,35,225,170,0 151,27,225,82,3 74,85,210,121,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image151.png 81,56,235,161,2 10,28,79,116,3 9,28,250,167,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image152.png 175,79,254,129,3 12,83,254,125,0 10,91,46,127,1 46,100,171,127,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image153.png 42,73,231,147,0 137,78,204,127,2 201,68,229,106,1 46,68,134,155,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image154.png 16,50,154,133,3 157,84,259,133,2 260,95,287,133,1 17,39,291,136,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image155.png 14,31,306,148,0 12,18,77,96,3 81,53,213,141,2 216,88,308,159,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image156.png 75,109,187,147,2 31,87,74,136,3 29,91,293,146,0 190,90,296,148,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image157.png 5,59,297,134,0 90,62,293,133,2 6,63,87,133,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image158.png 25,13,262,97,0 22,18,68,64,1 69,24,187,85,2 189,38,260,92,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image159.png 2,58,272,125,0 4,75,118,127,2 121,55,269,128,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image160.png 2,24,237,166,0 12,63,217,111,2 73,102,237,165,1 1,27,99,67,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image161.png 26,87,163,155,1 74,67,192,88,2 28,34,192,155,0 103,24,194,75,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image162.png 68,86,185,140,2 22,77,271,140,0 24,82,68,129,3 188,73,273,145,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image163.png 80,54,234,108,2 30,22,142,105,3 28,25,376,109,0 237,34,374,107,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image164.png 99,65,250,85,2 187,37,253,64,3 14,48,249,150,0 12,78,193,161,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image165.png 58,31,187,131,3 56,36,258,131,0 193,82,256,129,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image166.png 92,68,218,102,2 221,67,274,103,1 47,61,90,100,3 44,65,276,103,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image167.png 125,72,262,121,2 222,41,287,77,3 63,93,128,140,1 66,47,288,142,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image168.png 259,5,347,53,2 248,1,354,133,0 251,55,354,133,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image169.png 56,61,195,83,2 34,83,222,165,1 32,35,224,165,0 82,32,166,61,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image170.png 125,59,260,101,2 62,27,271,161,0 62,91,223,159,1 200,22,274,66,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image171.png 55,95,116,134,1 174,56,209,83,3 102,76,203,105,2 54,59,209,133,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image172.png 195,87,249,137,1 28,64,251,127,0 74,73,194,124,2 27,61,72,109,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image173.png 234,80,275,141,3 0,87,275,153,0 0,107,89,166,1 92,99,232,148,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image174.png 2,33,248,71,0 39,32,173,74,2 178,26,246,71,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image175.png 137,59,223,166,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image176.png 182,75,272,128,1 3,78,272,129,0 1,80,58,128,3 59,86,181,129,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image177.png 39,9,104,37,3 60,80,228,174,1 38,14,232,175,0 38,39,203,78,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image178.png 41,34,226,162,0 40,109,110,161,1 176,25,228,67,3 87,64,192,108,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image179.png 37,59,230,154,0 91,68,218,91,2 38,86,229,152,1 162,56,208,78,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image180.png 25,79,57,137,1 28,58,287,142,0 59,80,172,138,2 174,54,288,138,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image181.png 33,64,82,91,3 84,74,121,111,1 32,69,120,110,0 52,82,83,110,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image182.png 39,18,200,119,0 42,35,185,116,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image183.png 183,107,255,156,2 27,82,180,159,3 25,76,259,159,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image184.png 10,31,74,103,3 201,95,288,154,1 7,34,285,155,0 77,62,199,143,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image185.png 14,16,242,184,0 28,72,215,127,2 135,120,238,184,1 10,20,99,72,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image186.png 13,84,275,123,0 229,86,276,121,1 17,79,93,124,3 95,86,227,122,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image187.png 31,76,241,126,0 77,90,156,128,2 155,66,240,125,3 30,92,74,122,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image188.png 160,40,208,69,3 66,91,139,141,1 102,64,193,94,2 68,44,208,138,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image189.png 41,46,267,127,0 219,73,267,118,1 44,44,162,125,3 163,72,218,124,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image190.png 11,86,69,117,1 115,58,200,147,0 115,92,199,145,1 123,75,194,92,2 133,56,185,76,3 40,77,85,91,2 10,62,92,121,0 55,62,91,82,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image191.png 4,113,100,186,1 72,93,175,129,2 142,64,216,131,3 5,66,217,183,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image192.png 218,0,299,32,3 10,8,300,165,0 4,88,216,167,1 77,32,299,125,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image193.png 189,10,223,53,1 91,15,222,157,0 90,71,162,154,3 141,42,210,76,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image194.png 10,55,272,137,0 83,78,162,131,2 11,57,83,132,3 166,65,270,136,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image195.png 56,84,208,120,1 11,119,263,178,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image196.png 101,32,218,50,2 101,18,316,144,0 103,16,149,33,3 107,50,322,143,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image197.png 115,67,223,105,2 47,53,226,151,0 48,94,120,150,1 191,50,229,70,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image198.png 127,49,193,105,3 196,76,227,102,2 125,49,234,106,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image199.png 169,25,223,83,3 62,22,224,83,0 125,49,175,79,2 60,31,122,80,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image200.png 14,29,276,103,0 90,49,212,97,2 17,35,88,100,3 213,40,273,99,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image201.png 66,50,238,157,1 66,8,240,156,0 125,8,175,24,3 96,20,215,49,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image202.png 159,100,223,151,3 117,99,159,146,2 88,92,225,151,0 89,94,116,133,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image203.png 33,84,155,144,1 159,32,232,74,3 93,66,209,93,2 31,33,235,144,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image204.png 16,56,255,157,0 196,108,255,154,1 63,77,194,147,2 15,60,61,102,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image205.png 31,18,85,53,3 31,19,236,151,0 130,85,236,149,1 41,53,185,83,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image206.png 170,11,218,63,1 54,22,207,157,0 54,107,107,162,3 102,63,185,107,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image207.png 220,40,279,93,3 26,68,104,121,1 105,53,219,115,2 28,46,276,120,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image208.png 118,100,241,161,2 6,43,264,150,0 160,41,272,113,3 3,66,116,158,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image209.png 185,63,276,120,3 19,62,272,122,0 21,67,69,119,1 70,76,183,120,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image210.png 92,40,230,78,1 0,78,319,150,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image211.png 47,34,231,151,3 44,28,276,151,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image212.png 4,9,208,171,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image213.png 0,157,126,276,2 60,114,126,155,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image214.png 70,75,94,87,2 96,74,112,87,3 53,75,67,88,1 54,73,112,87,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image215.png 108,118,303,159,2 196,99,260,117,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image216.png 79,42,312,162,2 94,20,213,41,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image217.png 12,66,180,201,0 113,62,180,96,3 9,138,132,205,1 44,96,159,137,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image218.png 46,57,225,114,0 119,62,192,115,2 194,77,224,112,3 47,52,117,123,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image219.png 198,63,217,79,1 211,48,229,63,3 125,70,161,111,2 59,26,178,130,0 131,40,176,71,3 196,44,231,80,0 56,57,128,132,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image220.png 58,47,202,121,0 80,38,204,119,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image221.png 120,51,239,87,2 67,84,144,129,1 68,33,265,126,0 225,29,266,60,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image222.png 44,17,222,172,0 63,65,221,98,2 77,19,225,64,3 45,99,220,170,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image223.png 24,27,269,136,0 25,21,172,79,3 83,92,264,136,1 40,81,198,90,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image224.png 25,86,113,140,1 113,80,155,137,2 25,70,236,138,0 155,67,240,109,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image225.png 101,80,136,102,1 213,70,266,103,3 138,81,211,102,2 105,74,265,103,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image226.png 60,68,124,146,2 26,83,60,143,1 126,29,278,149,3 24,40,281,159,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image227.png 243,86,293,134,3 123,55,243,137,2 6,26,292,134,0 2,16,120,139,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image228.png 25,43,227,170,0 47,94,163,122,2 25,30,103,99,3 137,103,227,168,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image229.png 50,117,171,197,1 20,62,168,197,0 25,84,115,107,2 18,56,63,82,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image230.png 143,91,233,126,3 28,92,232,150,0 26,111,116,153,1 119,114,171,150,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image231.png 122,7,206,31,1 77,33,275,177,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image232.png 0,8,82,61,3 6,62,172,98,2 113,102,248,191,1 0,18,249,188,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image233.png 88,109,161,144,2 27,86,97,144,3 25,91,236,146,0 162,100,237,145,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image234.png 64,16,224,145,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image235.png 152,71,266,127,0 149,84,205,127,1 207,67,270,99,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image236.png 206,73,265,121,1 57,30,100,86,3 57,43,267,124,0 101,59,204,121,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image237.png 91,71,211,95,2 27,92,179,168,1 27,31,230,167,0 132,22,234,70,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image238.png 7,97,229,177,1 119,37,188,66,3 56,64,210,97,2 6,48,229,184,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image239.png 87,47,247,100,2 12,71,85,118,1 247,24,309,90,3 16,27,311,117,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image240.png 100,29,263,80,0 133,83,202,132,1 38,61,160,84,2 208,47,261,80,1 101,31,125,46,3 114,43,205,74,2 28,47,73,62,3 28,46,202,133,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image241.png 54,52,109,110,1 166,59,267,142,3 110,59,165,133,2 56,53,263,135,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image242.png 69,64,88,71,3 29,83,72,107,1 28,63,88,109,0 39,71,86,82,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image243.png 21,75,273,180,0 21,66,203,177,3 205,118,270,176,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image244.png 146,67,215,89,3 43,70,217,171,0 95,90,209,116,2 45,116,194,169,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image245.png 22,55,63,83,1 66,57,214,86,2 215,50,271,89,3 24,51,272,85,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image246.png 11,51,286,129,0 87,69,177,120,2 19,45,85,111,3 180,58,283,126,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image247.png 7,56,99,113,3 98,79,199,114,2 10,50,280,116,0 202,80,281,117,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image248.png 88,92,214,122,2 24,89,258,125,0 215,85,260,123,3 24,85,86,126,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image249.png 12,57,266,114,0 195,63,267,112,1 13,61,61,108,3 62,74,191,113,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image250.png 42,86,240,125,0 106,97,207,122,2 43,90,104,125,3 210,87,237,109,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image251.png 139,67,181,95,3 58,95,263,159,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image252.png 41,34,256,160,0 149,55,213,99,2 35,96,163,160,1 188,29,259,78,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image253.png 140,58,223,100,3 0,68,224,144,0 97,86,171,143,2 0,69,96,147,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image254.png 103,50,229,83,2 22,87,169,154,1 199,27,247,52,3 24,27,247,150,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image255.png 38,74,98,88,0 208,70,251,82,0 192,98,206,110,1 26,66,32,72,3 2,67,9,72,1 254,97,269,114,3 87,76,98,87,3 38,74,48,86,1 9,68,25,72,2 208,101,252,113,2 50,78,86,87,2 242,71,251,79,3 189,92,271,115,0 2,65,34,73,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image256.png 95,52,309,151,0 134,35,305,151,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image257.png 38,96,94,148,1 98,82,195,123,2 182,33,259,83,3 37,43,258,145,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image258.png 187,121,228,151,1 10,95,56,136,3 58,109,185,151,2 12,99,226,151,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image259.png 125,110,188,132,2 45,63,177,90,0 188,80,267,132,3 81,74,153,89,2 49,64,79,88,3 155,70,179,90,1 101,91,270,138,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image260.png 9,118,84,176,3 85,141,208,175,2 9,125,241,177,0 209,142,240,175,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image261.png 32,62,297,158,0 212,106,298,158,1 27,56,84,110,3 87,81,206,148,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image262.png 32,35,254,146,0 82,65,186,140,2 28,39,79,105,3 188,84,255,149,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image263.png 46,81,279,126,0 208,76,277,123,3 48,91,80,123,1 82,92,207,124,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image264.png 101,60,242,117,2 241,34,294,91,3 13,37,293,135,0 6,65,98,140,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image265.png 1,32,220,190,0 68,78,219,189,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image266.png 56,25,174,79,3 100,71,184,125,2 54,31,320,126,0 184,62,321,129,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image267.png 97,85,214,98,2 69,78,94,99,1 215,76,260,98,3 68,76,263,100,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image268.png 67,100,102,117,3 144,111,186,130,1 103,111,141,126,2 66,100,187,129,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image269.png 22,64,256,118,0 115,82,184,116,2 24,57,112,118,3 183,79,253,115,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image270.png 0,63,121,91,0 154,61,208,75,0 0,107,62,163,1 0,88,247,167,0 70,93,202,132,2 209,75,249,106,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image271.png 11,29,252,165,0 100,56,224,91,2 203,26,253,60,3 14,89,107,164,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image272.png 117,85,210,119,2 34,73,113,118,1 209,77,253,119,3 32,79,255,121,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image273.png 170,73,239,138,1 11,38,238,140,0 45,61,168,101,2 12,39,53,71,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image274.png 8,46,45,54,2 44,42,63,53,3 34,71,302,120,0 96,79,300,118,2 223,41,233,47,3 180,40,233,48,0 37,73,95,113,1 0,41,65,55,0 105,39,134,50,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image275.png 29,56,250,125,1 136,55,267,70,2 202,22,281,59,3 36,32,281,125,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image276.png 11,69,49,104,1 217,60,268,102,3 49,72,216,101,2 10,65,269,102,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image277.png 29,73,82,119,1 212,23,260,57,3 139,62,242,97,2 52,27,266,169,0 86,57,137,80,2 47,99,174,160,1 138,22,180,60,3 30,34,170,116,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image278.png 94,9,332,55,2 63,57,334,124,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image279.png 2,72,300,158,2 87,48,237,73,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image280.png 32,31,214,167,0 36,99,155,167,1 170,25,219,49,3 76,49,212,96,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image281.png 1,21,252,147,0 10,77,169,122,2 167,83,251,152,1 1,24,93,80,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image282.png 66,52,109,76,3 107,117,213,168,1 65,57,213,169,0 22,39,56,59,0 69,78,185,115,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image283.png 83,67,179,87,2 56,65,81,88,1 54,59,220,85,0 79,56,126,68,0 181,52,223,89,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image284.png 174,6,272,74,0 240,7,273,30,3 15,87,87,164,3 176,40,220,74,1 123,68,164,115,1 89,88,121,154,2 8,70,165,167,0 212,26,263,42,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image285.png 165,70,256,134,1 62,62,163,127,2 27,52,256,135,0 26,53,61,98,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image286.png 29,28,146,112,1 27,25,221,109,0 189,55,219,98,3 148,59,187,108,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image287.png 81,7,233,192,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image288.png 29,98,211,139,0 69,101,132,137,2 138,76,199,139,1 30,101,66,131,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image289.png 62,57,133,123,2 24,55,196,124,0 134,66,198,125,3 28,52,60,94,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image290.png 236,55,338,125,1 39,24,101,89,3 104,44,234,120,2 34,22,333,123,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image291.png 136,50,296,146,3 91,56,294,144,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image292.png 50,69,171,107,2 10,61,49,105,3 8,66,250,109,0 174,61,246,107,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image293.png 24,63,269,101,0 92,73,238,101,2 240,77,267,101,1 24,60,91,102,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image294.png 258,58,298,96,1 64,64,256,95,2 3,54,299,96,0 4,49,61,94,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image295.png 176,80,208,103,1 3,67,206,101,0 44,79,175,102,2 1,68,43,97,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image296.png 132,72,207,113,2 194,43,225,72,3 75,53,225,147,0 76,92,129,146,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image297.png 74,86,190,121,2 23,80,73,114,3 25,76,258,122,0 193,75,258,122,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image298.png 17,60,291,115,0 221,66,289,116,3 22,62,71,110,1 72,65,217,112,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image299.png 60,39,294,165,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image300.png 50,117,101,162,3 102,55,186,141,2 51,25,207,162,0 168,19,209,56,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image301.png 36,53,159,161,3 35,47,216,162,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image302.png 128,64,217,88,2 68,33,256,117,0 209,33,257,63,3 59,85,124,118,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image303.png 129,53,262,136,3 6,93,36,131,1 37,89,127,134,2 8,63,262,139,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image304.png 42,96,67,122,3 70,110,117,164,2 119,112,193,172,1 40,95,200,174,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image305.png 1,85,194,129,0 4,81,45,124,3 48,93,133,126,2 139,82,191,128,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image306.png 159,95,229,129,2 130,88,157,120,1 1,65,103,107,0 132,83,274,133,0 35,64,117,97,0 232,96,274,138,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image307.png 134,83,209,145,2 37,49,229,149,0 210,98,231,144,1 34,45,132,149,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image308.png 9,80,54,122,3 154,78,246,137,1 57,87,150,131,2 9,79,244,133,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image309.png 241,43,349,113,3 98,59,240,105,2 36,46,96,96,1 38,49,349,116,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image310.png 9,52,220,133,0 62,69,165,124,2 166,88,224,135,1 9,55,61,100,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image311.png 70,59,179,69,2 60,37,235,133,0 63,30,126,59,3 84,70,235,132,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image312.png 38,53,184,141,1 40,37,307,141,0 188,43,310,99,3 187,92,259,137,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image313.png 87,74,165,115,2 20,62,86,103,3 166,70,234,118,1 13,63,233,119,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image314.png 3,62,273,185,2 99,43,169,60,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image315.png 24,74,216,105,0 168,85,215,107,1 23,77,62,105,3 63,88,167,106,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image316.png 94,50,208,117,3 64,56,206,114,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image317.png 22,71,186,113,0 22,69,66,110,3 68,84,126,114,2 129,77,194,119,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image318.png 33,87,128,143,1 131,104,274,141,2 32,92,300,141,0 276,81,300,141,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image319.png 23,76,227,161,0 37,94,136,155,2 137,103,223,163,1 18,72,75,96,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image320.png 30,98,172,119,0 29,97,54,119,1 149,101,171,121,3 55,102,146,119,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image321.png 26,74,49,107,3 49,74,127,108,1 26,73,127,110,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image322.png 205,63,265,102,3 17,64,265,102,0 57,70,203,101,2 14,67,55,99,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image323.png 236,84,269,111,3 68,83,268,112,0 107,94,235,111,2 68,86,106,108,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image324.png 25,79,213,157,0 54,56,201,156,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image325.png 61,79,122,130,3 123,79,150,130,2 58,78,238,131,0 150,81,238,130,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image326.png 176,82,262,145,3 121,83,174,146,2 11,75,264,145,0 9,75,119,150,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image327.png 180,117,226,147,2 93,101,176,149,1 76,91,256,150,0 228,118,258,148,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image328.png 81,64,190,148,2 193,92,271,158,1 13,25,268,155,0 17,43,80,107,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image329.png 59,87,116,129,1 186,27,229,64,3 118,53,198,109,2 62,30,225,128,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image330.png 34,48,153,134,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image331.png 65,90,194,105,2 21,71,223,105,0 195,85,225,103,1 21,73,64,104,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image332.png 35,63,260,139,0 221,58,269,95,3 33,91,88,143,1 91,70,219,125,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image333.png 35,64,135,112,2 7,15,256,117,0 135,33,255,117,3 7,70,34,108,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image334.png 201,54,242,104,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image335.png 56,56,172,144,2 174,90,234,148,1 10,37,55,100,3 11,41,235,150,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image336.png 202,81,267,129,3 17,62,268,129,0 86,94,201,128,2 16,90,84,127,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image337.png 156,45,264,147,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image338.png 108,102,215,114,2 80,89,248,117,0 79,99,107,116,1 215,92,247,115,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image339.png 189,28,234,67,0 25,56,210,168,0 191,47,221,68,1 53,78,202,115,2 194,42,231,45,2 149,57,209,76,3 200,28,232,41,3 33,120,111,166,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image340.png 113,75,210,121,1 80,32,127,45,3 79,32,211,122,0 81,46,192,73,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image341.png 2,55,300,164,2 109,38,183,54,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image342.png 173,57,244,122,2 45,27,171,134,3 248,57,287,95,1 45,24,286,133,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image343.png 14,17,275,149,0 12,16,68,46,3 178,72,274,151,1 32,47,177,139,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image344.png 32,98,71,128,1 228,92,275,125,3 72,101,228,126,2 32,94,275,125,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image345.png 57,65,272,137,0 139,91,210,137,2 203,72,271,135,3 57,75,138,138,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image346.png 29,88,105,132,2 106,48,269,138,3 31,52,266,138,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image347.png 35,75,141,108,2 27,55,92,76,1 111,112,197,177,3 30,57,200,177,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image348.png 68,100,105,118,3 121,92,212,161,1 72,120,119,161,2 69,91,213,164,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image349.png 29,67,256,108,0 30,67,91,107,3 230,83,254,106,1 92,80,229,108,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image350.png 26,55,317,105,0 275,78,314,104,1 21,55,93,108,3 94,82,274,104,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image351.png 30,74,92,114,1 202,31,261,57,3 51,31,260,160,0 34,37,180,113,0 58,56,177,72,2 48,100,167,159,1 138,33,180,56,3 85,58,265,98,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image352.png 0,42,259,154,0 0,89,87,156,2 89,41,259,155,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image353.png 187,82,250,128,3 94,79,185,134,2 6,73,251,137,0 5,72,94,139,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image354.png 60,33,329,116,0 275,28,329,75,3 58,73,131,117,1 133,40,275,112,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image355.png 13,72,91,130,3 140,75,212,130,1 53,88,139,129,2 12,70,213,131,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image356.png 144,100,166,118,1 168,92,221,117,2 144,82,251,119,0 222,84,251,107,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image357.png 128,87,249,157,1 89,78,130,95,3 86,78,249,158,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image358.png 225,119,254,155,3 133,107,223,156,2 63,96,253,156,0 60,99,132,156,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image359.png 114,91,255,107,2 81,89,113,108,1 83,82,298,108,0 257,81,298,108,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image360.png 9,84,45,118,1 8,51,302,124,0 223,51,304,123,3 48,87,223,122,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image361.png 193,109,222,131,3 13,120,83,177,1 85,97,177,155,2 13,85,213,177,0 142,136,175,159,1 145,109,220,163,0 178,76,213,101,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image362.png 121,51,245,99,0 229,80,245,97,3 194,71,227,99,2 119,57,191,104,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image363.png 75,92,175,126,2 36,114,78,151,1 225,66,254,81,2 36,77,199,148,0 209,56,259,86,0 161,77,200,101,3 239,52,259,71,3 207,67,227,86,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image364.png 97,18,240,114,0 193,14,240,37,3 97,75,164,114,1 113,37,238,74,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image365.png 28,42,248,103,0 213,45,246,76,1 76,43,213,94,2 23,69,75,110,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image366.png 108,36,149,56,3 64,57,148,108,2 58,37,156,159,0 57,110,116,162,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image367.png 82,82,166,125,1 96,56,199,81,2 157,40,203,55,3 82,43,201,124,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image368.png 154,59,254,133,2 255,89,293,130,3 31,43,291,131,0 31,44,154,134,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image369.png 114,81,168,134,1 112,78,198,134,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image370.png 76,97,216,123,2 33,85,260,124,0 33,97,75,124,1 218,85,260,120,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image371.png 73,72,160,121,2 32,60,72,101,3 33,59,218,122,0 163,74,241,122,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image372.png 18,85,285,120,0 67,91,250,117,2 251,85,284,117,1 17,82,64,119,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image373.png 213,95,274,141,3 77,111,212,140,2 44,93,273,143,0 41,103,75,140,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image374.png 75,40,291,97,0 222,42,291,96,3 86,67,220,95,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image375.png 104,82,124,100,1 212,73,266,103,3 126,85,211,100,2 105,73,264,102,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image376.png 33,63,258,145,0 31,112,58,140,1 59,109,138,142,2 139,61,259,141,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image377.png 73,45,205,79,2 60,25,207,126,0 153,25,208,42,3 212,11,234,21,3 56,80,140,133,1 202,14,234,43,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image378.png 17,40,271,142,0 152,42,270,139,3 43,91,149,130,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image379.png 93,48,128,64,3 99,65,234,119,2 34,18,51,25,3 94,49,247,154,0 36,26,69,33,2 199,120,248,154,1 52,34,77,48,1 34,18,76,48,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image380.png 53,63,257,103,0 51,61,91,99,3 90,79,194,102,2 194,71,258,107,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image381.png 219,58,315,103,3 27,55,316,106,0 25,70,73,106,1 73,72,217,104,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image382.png 98,97,147,120,3 152,105,202,142,1 119,116,151,139,2 99,100,202,143,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image383.png 41,69,216,108,2 35,44,78,65,3 145,109,237,169,1 35,52,237,171,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image384.png 18,34,193,159,3 196,110,264,164,2 18,21,265,162,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image385.png 84,72,226,99,2 51,100,182,138,1 167,45,225,72,3 50,46,223,137,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image386.png 45,47,225,144,0 43,45,78,66,3 154,91,227,142,1 62,65,149,131,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image387.png 16,46,292,157,0 15,99,148,150,2 150,54,292,158,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image388.png 103,50,230,130,2 232,50,270,85,1 17,51,270,146,0 13,77,115,145,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image389.png 65,80,209,140,2 26,63,251,143,0 25,62,63,101,3 212,98,251,143,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image390.png 173,84,249,180,1 10,52,169,171,2 8,21,244,180,0 5,16,71,52,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image391.png 55,34,224,171,0 69,58,209,95,2 110,37,175,60,3 54,97,223,173,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image392.png 176,112,243,148,1 50,73,173,142,2 37,51,243,148,0 39,45,89,71,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image393.png 25,4,254,167,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image394.png 116,60,238,130,2 193,26,254,65,3 29,31,251,154,0 26,85,115,155,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image395.png 114,52,167,76,3 86,53,195,154,0 87,106,196,154,1 93,77,194,105,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image396.png 20,124,50,170,1 51,121,109,172,2 21,61,235,173,0 110,59,237,171,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image397.png 5,19,300,134,0 6,21,136,132,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image398.png 145,7,225,52,3 2,11,222,222,0 38,50,225,112,2 2,109,146,222,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image399.png 10,3,61,38,3 8,13,267,126,0 210,79,266,130,1 18,40,202,130,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image400.png 86,80,188,170,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image401.png 181,93,245,152,1 22,46,60,77,3 19,55,245,153,0 54,72,180,148,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image402.png 22,72,164,143,2 12,51,74,76,3 167,99,238,148,1 13,50,240,153,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image403.png 108,77,196,112,1 173,39,272,84,3 108,39,272,110,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image404.png 142,38,207,73,3 87,143,239,174,1 93,75,231,140,2 91,46,233,174,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image405.png 1,5,269,133,0 0,8,162,135,3 159,75,269,129,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image406.png 29,90,110,147,1 207,34,246,59,3 29,38,244,144,0 110,60,240,140,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image407.png 17,55,261,149,0 30,74,182,143,2 183,94,262,147,1 19,54,75,73,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image408.png 52,77,171,127,0 116,77,172,127,1 54,84,87,106,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image409.png 66,51,322,87,2 12,10,312,149,0 9,89,106,149,1 235,5,313,48,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image410.png 72,56,244,95,2 48,96,141,150,1 48,28,244,148,0 191,23,248,50,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image411.png 27,86,127,139,1 72,62,244,86,2 31,45,244,140,0 193,41,245,64,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image412.png 47,80,157,146,2 33,59,233,144,0 31,57,80,81,3 159,93,234,148,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image413.png 36,59,238,121,0 195,52,241,85,3 34,97,94,128,1 72,82,236,96,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image414.png 93,88,209,102,2 68,62,208,137,0 161,59,207,87,3 65,103,153,138,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image415.png 61,57,247,145,0 112,93,256,146,1 57,41,194,93,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image416.png 20,51,250,155,0 143,106,254,155,1 19,46,79,72,3 28,74,203,104,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image417.png 49,39,248,155,1 0,54,240,158,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image418.png 2,80,275,141,0 73,102,212,144,2 3,92,70,143,1 202,73,274,143,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image419.png 128,88,244,155,1 25,92,238,153,0 24,84,107,123,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image420.png 40,30,93,82,3 94,59,242,109,2 244,72,306,112,1 41,35,306,115,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image421.png 20,89,156,171,1 176,28,238,61,3 52,63,232,86,2 24,38,233,171,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image422.png 192,44,244,67,3 23,48,240,154,0 79,69,243,86,2 22,86,130,156,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image423.png 53,113,159,153,2 162,110,270,158,1 11,60,117,115,3 10,72,268,154,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image424.png 61,21,368,116,0 123,50,349,75,2 300,13,369,66,3 57,76,142,117,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image425.png 234,42,261,68,1 73,51,233,121,2 19,48,256,133,0 17,88,72,129,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image426.png 31,49,63,85,3 65,65,199,118,2 202,79,241,119,1 31,52,240,122,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image427.png 67,78,233,149,1 18,34,91,69,3 18,45,231,148,0 23,69,149,80,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image428.png 18,36,255,140,0 193,32,260,64,3 76,64,254,91,2 17,92,130,141,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image429.png 58,80,234,123,2 236,68,294,130,3 1,71,292,137,0 3,77,58,135,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image430.png 25,14,264,158,0 21,96,169,161,1 159,2,266,55,3 68,58,260,94,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image431.png 7,20,76,54,3 217,24,346,125,1 26,54,217,81,2 7,24,345,125,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image432.png 138,74,205,127,3 56,55,91,69,1 58,59,204,124,0 79,69,137,97,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image433.png 155,82,205,132,3 66,67,206,137,0 82,70,153,109,2 65,65,81,94,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image434.png 36,125,155,181,2 18,104,157,253,0 117,97,162,122,3 19,182,103,253,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image435.png 8,0,99,18,3 3,21,218,66,2 2,0,283,177,0 51,65,284,177,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image436.png 45,115,216,153,1 45,22,217,153,0 56,16,208,89,3 46,89,215,114,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image437.png 19,85,216,138,0 18,78,85,138,1 86,91,163,133,2 163,84,218,132,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image438.png 175,45,308,61,2 55,23,310,120,0 50,60,254,118,1 226,14,310,46,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image439.png 12,50,220,167,0 115,112,219,165,1 17,71,190,110,2 12,44,68,69,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image440.png 45,10,224,168,0 56,46,222,110,2 46,114,209,168,1 139,1,224,46,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image441.png 25,8,229,187,0 70,5,143,46,3 33,46,210,90,2 25,90,230,187,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image442.png 23,69,103,128,3 24,72,250,126,0 239,101,252,124,1 103,99,238,125,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image443.png 0,39,100,90,1 37,2,94,40,3 0,9,100,91,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image444.png 93,17,123,32,3 165,77,277,158,1 94,22,276,159,0 94,32,236,71,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image445.png 54,58,149,102,0 153,43,298,105,0 8,71,61,101,0 243,48,299,106,1 11,64,49,84,3 153,37,218,67,3 105,68,148,101,1 56,52,103,79,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image446.png 63,11,216,206,0 68,33,217,144,2 61,146,135,205,1 167,2,216,34,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image447.png 8,72,62,106,3 62,93,221,106,2 8,74,256,106,0 222,81,256,106,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image448.png 55,86,252,137,2 217,68,260,85,3 16,105,54,143,1 16,72,258,143,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image449.png 22,78,257,151,1 85,5,283,80,3 23,19,280,155,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image450.png 21,14,78,43,3 42,78,251,141,1 22,43,206,76,2 21,26,249,142,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image451.png 8,115,58,168,1 8,67,213,167,0 60,87,189,137,2 164,62,215,92,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image452.png 196,32,249,59,3 46,81,189,141,1 95,57,247,80,2 40,37,246,141,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image453.png 94,87,253,117,2 10,56,93,117,3 12,60,272,121,0 255,87,274,117,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image454.png 162,101,256,145,1 15,71,205,101,2 10,47,54,69,3 10,49,256,145,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image455.png 31,5,305,153,0 225,0,310,29,3 31,52,128,153,1 130,32,296,94,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image456.png 17,54,66,80,3 18,58,253,157,0 27,81,218,117,2 193,118,255,151,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image457.png 15,44,267,136,0 201,101,266,137,1 16,40,75,71,3 31,70,199,118,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image458.png 100,40,199,132,0 99,96,161,132,1 111,63,199,95,2 167,33,201,62,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image459.png 53,34,259,84,2 145,0,238,34,3 37,1,259,168,0 37,87,263,168,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image460.png 47,40,284,129,0 130,20,284,130,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image461.png 181,3,248,40,3 54,15,245,170,0 55,78,170,171,1 90,41,246,78,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image462.png 28,29,159,82,3 170,41,284,146,1 30,48,283,144,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image463.png 33,9,267,140,0 40,34,229,74,2 34,0,100,33,3 173,74,271,144,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image464.png 4,15,65,51,3 5,20,244,179,0 14,53,183,87,2 158,89,251,185,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image465.png 16,57,284,154,0 92,75,284,84,2 10,84,122,155,1 231,52,285,75,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image466.png 102,27,271,158,3 16,55,272,156,0 26,104,101,158,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image467.png 22,90,280,168,1 72,4,237,66,3 23,24,280,168,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image468.png 1,67,300,166,2 0,40,300,168,0 103,27,212,67,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image469.png 31,45,279,124,0 30,65,77,116,3 207,23,282,128,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image470.png 36,92,248,148,0 36,79,99,115,3 191,93,247,146,1 61,114,189,147,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image471.png 48,16,279,153,0 52,39,252,92,2 164,89,280,155,1 49,3,112,39,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image472.png 52,9,119,48,3 14,77,121,104,2 52,21,268,158,0 8,46,61,77,3 64,50,223,80,2 8,59,142,156,0 73,110,142,157,1 159,80,269,159,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image473.png 29,70,72,93,3 203,60,283,108,1 28,59,284,107,0 73,71,201,105,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image474.png 60,23,123,56,3 132,90,240,133,1 64,56,218,90,2 59,31,242,133,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image475.png 18,97,65,126,1 201,43,257,69,3 65,67,228,104,2 19,48,257,126,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image476.png 4,64,215,182,0 59,97,211,113,2 4,112,107,184,1 145,59,217,97,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image477.png 20,52,219,114,2 3,19,220,220,0 0,115,130,220,1 142,7,221,50,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image478.png 251,59,318,126,1 3,67,66,121,3 3,70,318,123,0 61,72,249,123,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image479.png 62,66,216,95,2 171,45,217,65,3 27,96,144,159,1 26,51,216,158,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image480.png 46,57,206,90,2 43,94,223,149,1 55,24,116,54,3 42,32,223,151,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image481.png 56,23,221,154,0 106,93,221,153,1 59,42,186,90,2 55,16,107,41,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image482.png 159,19,203,41,3 54,84,152,125,1 70,43,202,82,2 56,26,202,125,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image483.png 0,29,235,211,0 26,32,229,138,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image484.png 7,14,163,140,3 165,85,301,134,2 8,18,313,139,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image485.png 41,106,118,158,1 41,21,246,160,0 195,16,248,43,3 119,45,244,140,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image486.png 43,8,232,176,0 111,6,164,26,3 52,28,224,65,2 44,66,230,175,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image487.png 42,52,142,134,3 194,54,220,67,1 42,57,221,136,0 144,67,215,101,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image488.png 32,38,272,151,0 42,78,256,103,2 60,25,232,78,3 32,104,271,151,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image489.png 0,5,285,171,0 209,101,285,177,1 0,62,279,97,2 0,1,94,60,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image490.png 32,11,275,156,0 34,80,276,157,1 38,3,120,39,3 34,39,228,78,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image491.png 133,97,196,163,1 59,79,158,96,2 53,68,196,164,0 53,65,86,79,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image492.png 17,25,86,56,3 192,65,294,132,1 17,31,292,134,0 49,57,191,125,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image493.png 162,12,283,62,3 15,19,282,160,0 73,63,282,87,2 14,90,236,160,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image494.png 131,110,239,170,1 12,44,239,164,0 10,39,59,62,3 14,64,195,106,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image495.png 235,86,285,147,1 17,39,284,147,0 32,62,220,145,2 17,32,68,59,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image496.png 90,58,194,141,1 89,24,241,140,0 139,43,242,56,2 193,18,242,43,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image497.png 39,11,261,166,0 149,3,235,35,3 55,35,257,88,2 41,90,259,168,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image498.png 203,0,259,45,3 0,4,259,159,0 0,37,202,159,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image499.png 72,28,253,142,3 67,32,271,143,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image500.png 51,8,279,152,0 149,91,279,152,1 53,44,240,85,2 49,5,116,39,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image501.png 93,62,136,102,3 146,60,205,102,3 63,67,136,102,0 134,65,206,100,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image502.png 97,112,186,148,2 41,75,96,119,3 36,91,248,147,0 188,113,247,149,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image503.png 145,45,374,122,0 146,79,209,121,1 315,44,373,74,3 212,71,346,108,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image504.png 27,51,273,106,2 0,109,170,181,1 0,16,273,177,0 196,7,273,50,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image505.png 138,69,217,113,2 188,59,220,68,1 42,51,137,138,3 41,55,221,138,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image506.png 16,47,267,133,0 197,104,266,135,1 14,44,78,70,3 24,73,196,118,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image507.png 38,36,239,122,0 37,35,77,62,3 202,87,239,123,1 79,51,200,106,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image508.png 175,39,242,70,3 16,95,112,184,1 68,70,239,94,2 16,46,237,183,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image509.png 66,53,237,161,1 85,24,221,52,2 67,11,238,156,0 127,7,174,23,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image510.png 27,60,284,107,0 76,68,200,108,2 202,59,282,108,1 27,66,74,94,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image511.png 35,59,189,117,2 32,40,214,178,0 31,35,80,58,3 127,120,214,189,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image512.png 0,90,259,194,2 0,81,259,194,0 167,78,242,88,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image513.png 74,24,300,168,1 0,25,300,166,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image514.png 7,115,102,183,1 8,39,227,181,0 174,33,230,59,3 48,60,226,114,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image515.png 63,73,166,127,1 253,48,301,64,3 66,51,300,125,0 140,65,303,75,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image516.png 27,82,195,137,2 19,63,254,148,0 196,111,254,150,1 19,58,66,81,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image517.png 99,99,155,132,1 100,40,200,133,0 167,32,200,63,3 111,65,197,98,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image518.png 42,116,88,148,1 42,62,221,148,0 70,80,219,114,2 185,58,223,75,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image519.png 115,88,212,113,1 51,71,171,86,2 43,54,210,114,0 42,50,84,68,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image520.png 48,5,233,170,0 58,57,233,102,2 86,3,234,54,3 49,103,230,171,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image521.png 0,67,300,168,2 105,31,209,66,1 0,41,300,167,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image522.png 55,50,181,97,2 47,27,181,168,0 48,98,171,167,1 109,11,182,49,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image523.png 9,37,247,178,0 8,17,91,60,3 93,109,248,178,1 13,62,203,108,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image524.png 46,56,240,81,2 42,23,250,140,0 96,15,190,54,3 41,82,250,138,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image525.png 118,63,235,149,1 39,24,233,148,0 39,21,79,40,3 43,42,180,63,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image526.png 160,0,264,52,3 60,51,262,94,2 25,16,262,161,0 24,95,167,159,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image527.png 137,81,268,141,1 36,11,268,141,0 37,34,234,76,2 34,3,99,32,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image528.png 94,20,276,157,0 93,17,120,32,3 141,62,277,158,1 96,33,208,59,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image529.png 180,84,285,174,1 2,55,226,83,2 0,5,285,172,0 0,0,95,46,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image530.png 45,40,210,152,0 68,60,206,110,2 45,113,108,156,1 171,36,211,53,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image531.png 160,68,283,144,1 30,41,283,144,0 30,33,159,78,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image532.png 67,56,221,84,2 185,25,226,53,3 34,29,224,132,0 34,88,88,131,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image533.png 29,49,245,143,0 29,47,76,69,3 38,72,215,107,2 177,108,247,143,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image534.png 10,49,55,70,3 18,71,190,125,2 12,54,255,143,0 193,98,256,144,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image535.png 32,106,270,153,1 41,77,260,105,2 32,34,270,152,0 61,19,232,76,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image536.png 104,37,166,59,3 74,59,185,72,2 46,73,196,125,1 48,40,196,124,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image537.png 9,39,60,61,3 14,64,187,103,2 130,104,238,169,1 10,41,238,169,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image538.png 50,57,187,125,2 18,25,90,56,3 18,32,291,132,0 191,68,293,133,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image539.png 10,53,211,96,2 7,19,65,51,3 131,97,245,180,1 7,26,243,181,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image540.png 38,38,98,64,3 143,96,223,138,1 40,43,224,138,0 49,66,187,93,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image541.png 16,39,285,147,0 218,85,284,146,1 17,31,68,66,3 69,56,206,144,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image542.png 38,2,89,39,3 0,40,100,90,1 0,7,100,90,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image543.png 124,113,192,151,2 43,96,124,153,1 46,105,251,153,0 193,100,253,151,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image544.png 42,30,275,183,0 43,29,172,153,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image545.png 68,54,221,79,2 16,82,129,111,2 52,13,118,50,3 151,81,266,159,1 70,112,141,157,1 10,57,141,157,0 52,21,266,162,0 9,47,64,79,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image546.png 15,25,284,162,0 17,88,231,160,1 163,13,285,61,3 81,65,287,89,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image547.png 200,41,265,56,1 5,36,136,172,3 4,46,261,170,0 137,60,257,127,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image548.png 58,78,168,99,2 53,69,199,164,0 127,100,198,164,1 54,64,86,79,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image549.png 235,77,318,136,1 0,76,233,137,2 0,75,323,135,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image550.png 164,86,314,132,2 8,17,313,137,0 8,16,162,142,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image551.png 26,92,231,188,1 34,46,205,91,2 26,18,230,186,0 71,8,139,46,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image552.png 48,87,130,147,1 48,37,251,147,0 207,33,255,52,3 94,55,250,86,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image553.png 52,109,153,155,1 51,28,211,156,0 75,48,211,102,2 164,18,215,47,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image554.png 60,42,119,71,3 144,102,226,148,1 60,50,227,146,0 61,73,192,102,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image555.png 25,40,241,167,0 53,64,236,117,2 168,24,240,62,3 24,122,150,171,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image556.png 2,24,220,218,0 5,115,125,219,1 20,52,225,112,2 151,6,225,46,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image557.png 26,30,121,70,3 182,55,286,118,1 26,44,286,110,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image558.png 192,50,265,90,3 45,43,131,128,1 132,76,223,125,2 46,63,265,129,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image559.png 57,72,276,107,2 20,40,281,157,0 22,109,114,159,1 210,30,279,74,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image560.png 231,38,292,70,3 80,72,288,102,2 32,103,112,141,1 34,43,292,139,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image561.png 246,37,299,53,3 59,52,300,98,2 0,40,300,168,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image562.png 7,16,179,174,1 5,14,280,169,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image563.png 24,12,81,42,3 176,82,268,161,1 25,21,266,161,0 33,43,222,82,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image564.png 9,0,300,161,0 7,0,199,164,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image565.png 43,18,204,161,0 56,50,206,102,2 128,12,205,47,3 44,106,193,161,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image566.png 56,49,126,106,1 236,64,288,74,0 58,55,237,108,0 200,54,237,89,3 128,65,200,101,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image567.png 58,138,137,200,1 61,13,215,201,0 166,6,219,34,3 72,35,218,135,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image568.png 91,92,203,129,1 90,55,204,131,0 98,72,193,92,2 125,48,169,71,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image569.png 48,55,217,160,0 157,101,216,161,1 49,49,86,68,3 54,71,181,99,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image570.png 18,92,141,139,1 17,40,258,139,0 80,63,254,90,2 191,28,258,60,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image571.png 86,54,181,131,2 36,36,244,142,0 192,83,243,140,1 35,23,84,64,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image572.png 59,103,192,131,2 33,85,277,133,0 31,96,57,134,1 194,69,277,132,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image573.png 18,62,186,102,2 187,80,240,136,1 11,42,240,137,0 10,39,51,61,3
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image574.png 91,19,231,135,0 139,93,231,135,1 91,17,133,40,3 93,41,220,93,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image575.png 329,437,444,461,2 380,403,428,437,3 320,463,445,555,1 321,405,445,561,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image576.png 300,420,358,452,3 300,417,486,620,0 297,455,465,497,2 330,496,492,620,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image577.png 303,499,489,649,1 212,421,486,647,0 212,421,275,456,3 218,465,418,500,2
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image578.png 129,416,208,467,3 129,421,508,677,0 135,465,397,509,2 276,509,504,671,1
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image579.png 65,480,351,518,2 64,429,155,474,3 249,512,504,703,1 65,426,504,703,0
+/home/gabryelsr/Pictures/databank/ships_VOC_treino2/image580.png 213,519,561,768,1 64,496,557,768,0
