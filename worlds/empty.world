@@ -1,17 +1,42 @@
 <?xml version="1.0" ?>
 <sdf version="1.5">
   <world name="default">
+
     <!-- A global light source -->
     <include>
       <uri>model://sun</uri>
     </include>
+
+    <!-- An asphalt plane
+    <include>
+      <uri>model://asphalt_plane</uri>
+    </include> -->
+
     <!-- A ground plane -->
     <include>
       <uri>model://ground_plane</uri>
     </include>
-    <include>
-      <uri>model://asphalt_plane</uri>
-    </include>
+
+    <!-- Wind
+    <plugin name='wind_plugin' filename='libgazebo_wind_plugin.so'>
+      <frameId>base_link</frameId>
+      <robotNamespace/>
+      <windVelocityMean>4.0</windVelocityMean>
+      <windVelocityMax>20.0</windVelocityMax>
+      <windVelocityVariance>0</windVelocityVariance>
+      <windDirectionMean>0 1 0</windDirectionMean>
+      <windDirectionVariance>0</windDirectionVariance>
+      <windGustStart>0</windGustStart>
+      <windGustDuration>0</windGustDuration>
+      <windGustVelocityMean>0</windGustVelocityMean>
+      <windGustVelocityMax>20.0</windGustVelocityMax>
+      <windGustVelocityVariance>0</windGustVelocityVariance>
+      <windGustDirectionMean>1 0 0</windGustDirectionMean>
+      <windGustDirectionVariance>0</windGustDirectionVariance>
+      <windPubTopic>world_wind</windPubTopic>
+    </plugin> -->
+
+    <!-- Physics
     <physics name='default_physics' default='0' type='ode'>
       <gravity>0 0 -9.8066</gravity>
       <ode>
@@ -32,6 +57,6 @@
       <real_time_factor>1</real_time_factor>
       <real_time_update_rate>250</real_time_update_rate>
       <magnetic_field>6.0e-6 2.3e-5 -4.2e-5</magnetic_field>
-    </physics>
+    </physics> -->
   </world>
 </sdf>
