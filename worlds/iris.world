@@ -20,10 +20,6 @@
       <windPubTopic>world_wind</windPubTopic>
     </plugin>
 
-    <gui>
-      <plugin name="video_widget" filename="libgazebo_video_stream_widget.so"/>
-    </gui>
-
     <!-- A global light source -->
     <include>
       <uri>model://sun</uri>
